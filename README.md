@@ -7,7 +7,7 @@
 
 Without data, we couldn't really be data analysts. Therefore, this lab will discuss the task of importing and exporting data into pandas using different file formats.
 
-## Getting Started
+## Let's go
 
 Open the `main.ipynb` file in the `your-code` directory. Follow the instructions and add your code and explanations as necessary. By the end of this lab, you will have learned how to import and export JSON, csv, and Excel files.
 ## Deliverables
