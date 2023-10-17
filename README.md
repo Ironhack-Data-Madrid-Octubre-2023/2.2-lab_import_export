@@ -2,7 +2,7 @@
 
 # Lab | Importing and Exporting Files
 
-
+.
 ## Introduction
 
 Without data, we couldn't really be data analysts. Therefore, this lab will discuss the task of importing and exporting data into pandas using different file formats.
